@@ -19,8 +19,9 @@
   - **Infrastructure Designs** – Enterprise network topologies and best practices
 
 - 🏆 Certifications:
-  - Linux Foundation Training
-  - CompTIA Network+ (In Progress)
+  - Linux Foundation Training with SRTechOps
+  - SOC Analyst
+  - CCNA 200-301 Network Fundamentals
 
 - 📧 Contact: [veerapragadesh@gmail.com](mailto:veerapragadesh@gmail.com)
 - 💡 Fun fact: I love designing efficient network topologies and optimizing network performance!
@@ -31,7 +32,7 @@
 
 **Networking:** Cisco Packet Tracer | Routing & Switching | VLAN | Subnetting | TCP/IP | Network Design  
 **Tools & Platforms:** Linux CLI | Python | Git | Wireshark | Nmap  
-**Certifications:** Linux Foundation Certified | CompTIA Network+ (In Progress)
+**Certifications:** Linux Foundation Certified | SOC Analyst Certified | CCNA 200-301 Network Fundamentals
 
 ---
 
